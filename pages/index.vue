@@ -27,11 +27,16 @@
                 </div> -->
               </div>
               <p>
-                Decred is a blockchain-based cryptocurrency with a strong focus
+                Much like the eldest child blazes the trail for their younger
+                siblings, the team leading the @withdecred initiative has been around the cryptocurrency/blockchain space
+                for quite some time. We first stumbled upon Bitcoin like most others, and now fully acclimated and embracing the new 
+                juggernaut - Decred: Short for "Decentralized Credits". 
+              <p>
+                What is Decred? Decred is a blockchain-based cryptocurrency with a strong focus
                 on community input, inclusive governance, and sustainable
-                funding for development. It utilizes a unique hybrid
-                Proof-of-Work (PoW) and Proof-of-Stake (PoS) consensus model to
-                ensure that a small group cannot dominate the flow of
+                funding for development. Utilizing a unique hybrid
+                Proof-of-Work (PoW) and Proof-of-Stake (PoS) consensus model, Decred
+                ensures a small group cannot dominate the flow of
                 transactions or make changes to Decred without the approval of
                 the community.
               </p>
@@ -41,10 +46,10 @@
                 weaknesses. The Decred team (then Conformal Systems) was
                 originally part of the Bitcoin core community and most notably
                 built the 2nd most used Bitcoin node implementation:
-                Btcsuite/btcd. To put it more simply, the Decred team developed
+                Btcsuite/btcd. More simply, the Decred team developed
                 Bitcoin software which was and is still
                 <span class="underline"
-                  >used to transact $BTC worth hundreds of millions USD</span
+                  >used to transact $BTC worth hundreds of millions of $USD</span
                 >.
               </p>
               <p>
@@ -53,17 +58,10 @@
                 Decred to address and improve upon Bitcoin.
               </p>
               <p>
-                Much like Bitcoin in 2014, Decred is now 5 years old and is
-                still under the radar. Like in 2014 with Bitcoin, most people
-                have yet to hear of Decred. Most people didn't understand
-                Bitcoin or they simply didn't pay attention. We believe we stand
-                in similar situation now in regards to Decred.
-              </p>
-              <p>
                 Decred is in the slim minority of projects that
                 <span class="underline">consistently delivers on promises</span
-                >, is built to last, and is positioned to take the main stage as
-                a powerhouse in the the cryptocurrency space. We are sold on
+                >, is built to last, positioned to take the main stage as
+                a powerhouse in the cryptocurrency space. We are sold on
                 Decred and this community driven website and initiative is to
                 provide readers and believers with the fundamental knowledge,
                 resources and support to simplify what we know to be a complex
@@ -71,8 +69,9 @@
                 <span class="underline">The Decred Project</span>.
               </p>
               <p>
-                Here is your chance to learn about Decred while it's still
-                undiscovered by the mass market.
+                Decred is now 5 years old and, similar to Bitcoin in 2014, is
+                still relatively under the radar. Here is your chance to learn about Decred while it's still
+                undiscovered by the mass market!
               </p>
               <p>
                 Are you
