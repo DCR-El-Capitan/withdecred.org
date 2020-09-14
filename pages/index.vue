@@ -20,69 +20,38 @@
               <div slot="header" class="m--flex">
                 <h3 class="card-title">
                   <i class="el-icon-magic-stick" />
-                  Preface - Decred, cryptocurrency under the radar
+                  Preface - Decred, an under the radar cryptocurrency
                 </h3>
                 <!-- <div class="ml-auto">
                   <i class="el-icon-check card--is-done" />
                 </div> -->
               </div>
               <p>
-                Cryptocurrencies can feel overwhelming with scams and jargon.
-                DeFi? Yield Farming? Governance? ICOmania? All of these
-                buzzwords can make it hard to pick out the diamonds in the
-                rough. We’re going to cut through the clutter and help you get
-                acclimated - <strong>@withDecred</strong>.
-              </p>
-              <!-- <div class="hr my-3" /> -->
+                Cryptocurrencies and the digital currency space, in accordance to public perception, is a niche
+                field that has a high barrier to entry. This perception is mostly attributable to the fact that the technology 
+                is relatively new, and unique to traditional financial products. Much like the oldest child blazes the trail for their younger
+                siblings, the team leading the @withdecred initiative has been around the cryptocurrency/blockchain space
+                for quite some time, first stumbled upon Bitcoin like most others, and is now fully acclimated and embracing the new and under the radar 
+                juggernaut - Decred: Short for "Decentralized Credits"
               <p>
-                After 2.5 years of "cold and bloody" bear market, crypto finally
-                entered a bull market.
-              </p>
-              <p>
-                Unfortunately, even in bull market, many people lose money? How
-                is it possible?
-              </p>
-              <p>
-                After seeing random tokens doing 50x or 100x returns in the
-                matter of few weeks, people throw money on other random,
-                Twitter-hyped coins such as $YAM, $YAM2, $SUSHI, $FARM, $AMPL,
-                $BASED and likes. Most of them plummet 95% down after the crowd
-                buys them and people end with huge loses. Most of these coins
-                are only ERC-20 tokens created on top of Ethereum and bring
-                little to no innovation
-              </p>
-              <p>
-                Let's explore Decred, a cryptocurrency which is still under the
-                radar of most people.
-              </p>
-              <p>
-                You will discover a deep "rabbit hole" of Decred in series of 4
-                articles, but before we start, let's look at what are the
-                trending topics of crypto in 2020:
-              </p>
-              <ul>
-                <li>DEX (Decentralized Exchanges, eg. Uniswap, Kyberswap)</li>
-                <li>Governance ($YFI, $CRV, $KNC, ..)</li>
-                <li>
-                  Scaling (ETH2.0, SKALE network, Loopring, BTC Lighting
-                  network)
-                </li>
-                <li>Staking (ETH2.0, $YFI, Dash, Cosmos ..)</li>
-                <li>
-                  Privacy (mixers, zero-knowledge proofs, bullet-proofs;
-                  high-level cryptography)
-                </li>
-              </ul>
-
-              <p>
-                These are the most important trends in crypto markets in 2020
-                and many new projects are trying to leverage these trends to
-                squeeze money out of the market by creating a new website in "2
-                days" and marketing it to the world like "The Next Big Thing".
-              </p>
-
-              <p>
-                Now, let's explore how Decred.
+                This website has been envisioned as a map to your personal understanding and future acquisition of Decred. Given Decred is a blockchain based 
+                cryptocurrency, and Bitcoin is technically the worlds first application of the novel "blockchain", you will be provided a brief history of money 
+                and blockchain 101, however, this website only scratches the surface on these concepts and is tailored for those who already have a basic knowledge 
+                and understanding of the world's first blockchain: Bitcoin.
+              <p> 
+                Decred builds upon the promise of Bitcoin: the idea of self-sovereignty for your money. Decred takes everything that works with Bitcoin (there is no 
+                sense in recreating the wheel) and elegantly iterates the model to be more forward looking, inclusive, adaptable, and secure. 
+              <p> 
+                Make no mistake. The truth is: the majority of cryptocurrency projects are scams, ponzis, and try and use popular jargon to make promises they don't plan 
+                on keeping. DeFi, Yield Farming, Governance, Decentralized - all sound great but the reality is these concepts are very hard to get right and the marjority 
+                of projects have a few big token holders trying to sell you on these terms to ultimately get rich quick, maintain power and control, and not deliver anything of 
+                value. There is no such thing as a free lunch! Promises of 50x and 100x by next week are almost always too good to be true. 
+              <p> 
+                Decred is in the slim minority of projects that consistently delivers on promises, is built to last, and is positioned to take the main stage as a powerhouse in the
+                the cryptocurrency space. We are sold on Decred and this community driven website and initiative is to provide readers and believers with the fundamental knowledge, resources, 
+                and support to simplify what we know to be a complex but extremely valuable project: The Decred Project. 
+              <p> 
+                Are you @withdecred? Dive right into Decred 101 by clicking next below. 
               </p>
 
               <div class="mt-3 mb-2">
